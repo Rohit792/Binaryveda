@@ -23,6 +23,8 @@
 		F9EA533D267599B500B92D21 /* LandingModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9EA533C267599B500B92D21 /* LandingModel.swift */; };
 		F9EA534426759E8800B92D21 /* Landing.json in Resources */ = {isa = PBXBuildFile; fileRef = F9EA53372675997600B92D21 /* Landing.json */; };
 		F9EA53522675D56700B92D21 /* constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9EA53512675D56700B92D21 /* constants.swift */; };
+		F9EA536E26760C1F00B92D21 /* Screenshot 2021-06-13 at 3.19.13 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = F9EA536D26760C1F00B92D21 /* Screenshot 2021-06-13 at 3.19.13 PM.png */; };
+		F9EA537626760C4400B92D21 /* Screenshot 2021-06-13 at 3.19.50 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = F9EA537526760C4300B92D21 /* Screenshot 2021-06-13 at 3.19.50 PM.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -65,6 +67,8 @@
 		F9EA53372675997600B92D21 /* Landing.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = Landing.json; sourceTree = "<group>"; };
 		F9EA533C267599B500B92D21 /* LandingModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandingModel.swift; sourceTree = "<group>"; };
 		F9EA53512675D56700B92D21 /* constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = constants.swift; sourceTree = "<group>"; };
+		F9EA536D26760C1F00B92D21 /* Screenshot 2021-06-13 at 3.19.13 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screenshot 2021-06-13 at 3.19.13 PM.png"; sourceTree = "<group>"; };
+		F9EA537526760C4300B92D21 /* Screenshot 2021-06-13 at 3.19.50 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screenshot 2021-06-13 at 3.19.50 PM.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,6 +119,7 @@
 		F9609B922674BF0000B48505 /* Binaryveda */ = {
 			isa = PBXGroup;
 			children = (
+				F9EA536C26760C0A00B92D21 /* ScreenShots */,
 				F9EA533B267599A800B92D21 /* Model */,
 				F9609BD52675284A00B48505 /* LandingScreen */,
 				F9609BD42675283400B48505 /* ProfileScreen */,
@@ -190,6 +195,15 @@
 				F9EA533C267599B500B92D21 /* LandingModel.swift */,
 			);
 			path = Model;
+			sourceTree = "<group>";
+		};
+		F9EA536C26760C0A00B92D21 /* ScreenShots */ = {
+			isa = PBXGroup;
+			children = (
+				F9EA537526760C4300B92D21 /* Screenshot 2021-06-13 at 3.19.50 PM.png */,
+				F9EA536D26760C1F00B92D21 /* Screenshot 2021-06-13 at 3.19.13 PM.png */,
+			);
+			path = ScreenShots;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -296,9 +310,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				F9609BA02674BF0600B48505 /* LaunchScreen.storyboard in Resources */,
+				F9EA537626760C4400B92D21 /* Screenshot 2021-06-13 at 3.19.50 PM.png in Resources */,
 				F9EA534426759E8800B92D21 /* Landing.json in Resources */,
 				F9609BCD26750DD200B48505 /* LandingTableViewCell.xib in Resources */,
 				F9609B9D2674BF0600B48505 /* Assets.xcassets in Resources */,
+				F9EA536E26760C1F00B92D21 /* Screenshot 2021-06-13 at 3.19.13 PM.png in Resources */,
 				F9609B9B2674BF0000B48505 /* Main.storyboard in Resources */,
 				F9609BE2267540C300B48505 /* ProfileCollectionViewCell.xib in Resources */,
 			);
