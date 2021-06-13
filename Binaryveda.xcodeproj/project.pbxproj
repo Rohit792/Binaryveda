@@ -23,8 +23,30 @@
 		F9EA533D267599B500B92D21 /* LandingModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9EA533C267599B500B92D21 /* LandingModel.swift */; };
 		F9EA534426759E8800B92D21 /* Landing.json in Resources */ = {isa = PBXBuildFile; fileRef = F9EA53372675997600B92D21 /* Landing.json */; };
 		F9EA53522675D56700B92D21 /* constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9EA53512675D56700B92D21 /* constants.swift */; };
-		F9EA536E26760C1F00B92D21 /* Screenshot 2021-06-13 at 3.19.13 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = F9EA536D26760C1F00B92D21 /* Screenshot 2021-06-13 at 3.19.13 PM.png */; };
-		F9EA537626760C4400B92D21 /* Screenshot 2021-06-13 at 3.19.50 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = F9EA537526760C4300B92D21 /* Screenshot 2021-06-13 at 3.19.50 PM.png */; };
+		F9EA539026760F5C00B92D21 /* METADATA.pb in Resources */ = {isa = PBXBuildFile; fileRef = F9EA537B26760F5B00B92D21 /* METADATA.pb */; };
+		F9EA539126760F5C00B92D21 /* Barlow-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F9EA537C26760F5B00B92D21 /* Barlow-Medium.ttf */; };
+		F9EA539226760F5C00B92D21 /* DESCRIPTION.en_us.html in Resources */ = {isa = PBXBuildFile; fileRef = F9EA537D26760F5B00B92D21 /* DESCRIPTION.en_us.html */; };
+		F9EA539326760F5C00B92D21 /* Barlow-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F9EA537E26760F5B00B92D21 /* Barlow-Black.ttf */; };
+		F9EA539426760F5C00B92D21 /* Barlow-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F9EA537F26760F5C00B92D21 /* Barlow-Bold.ttf */; };
+		F9EA539526760F5C00B92D21 /* Barlow-ExtraLightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F9EA538026760F5C00B92D21 /* Barlow-ExtraLightItalic.ttf */; };
+		F9EA539626760F5C00B92D21 /* Barlow-LightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F9EA538126760F5C00B92D21 /* Barlow-LightItalic.ttf */; };
+		F9EA539726760F5C00B92D21 /* Barlow-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F9EA538226760F5C00B92D21 /* Barlow-BoldItalic.ttf */; };
+		F9EA539826760F5C00B92D21 /* Barlow-BlackItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F9EA538326760F5C00B92D21 /* Barlow-BlackItalic.ttf */; };
+		F9EA539926760F5C00B92D21 /* Barlow-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F9EA538426760F5C00B92D21 /* Barlow-Light.ttf */; };
+		F9EA539A26760F5C00B92D21 /* Barlow-MediumItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F9EA538526760F5C00B92D21 /* Barlow-MediumItalic.ttf */; };
+		F9EA539B26760F5C00B92D21 /* Barlow-SemiBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F9EA538626760F5C00B92D21 /* Barlow-SemiBoldItalic.ttf */; };
+		F9EA539C26760F5C00B92D21 /* OFL.txt in Resources */ = {isa = PBXBuildFile; fileRef = F9EA538726760F5C00B92D21 /* OFL.txt */; };
+		F9EA539D26760F5C00B92D21 /* Barlow-ExtraLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F9EA538826760F5C00B92D21 /* Barlow-ExtraLight.ttf */; };
+		F9EA539E26760F5C00B92D21 /* Barlow-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F9EA538926760F5C00B92D21 /* Barlow-Thin.ttf */; };
+		F9EA539F26760F5C00B92D21 /* Barlow-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F9EA538A26760F5C00B92D21 /* Barlow-Italic.ttf */; };
+		F9EA53A026760F5C00B92D21 /* Barlow-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F9EA538B26760F5C00B92D21 /* Barlow-ExtraBold.ttf */; };
+		F9EA53A126760F5C00B92D21 /* Barlow-ExtraBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F9EA538C26760F5C00B92D21 /* Barlow-ExtraBoldItalic.ttf */; };
+		F9EA53A226760F5C00B92D21 /* Barlow-ThinItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F9EA538D26760F5C00B92D21 /* Barlow-ThinItalic.ttf */; };
+		F9EA53A326760F5C00B92D21 /* Barlow-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F9EA538E26760F5C00B92D21 /* Barlow-SemiBold.ttf */; };
+		F9EA53A426760F5C00B92D21 /* Barlow-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F9EA538F26760F5C00B92D21 /* Barlow-Regular.ttf */; };
+		F9EA53D02676192C00B92D21 /* Screenshot 2021-06-13 at 4.14.55 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = F9EA53CF2676192C00B92D21 /* Screenshot 2021-06-13 at 4.14.55 PM.png */; };
+		F9EA53DB2676195500B92D21 /* Screenshot 2021-06-13 at 4.15.37 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = F9EA53DA2676195500B92D21 /* Screenshot 2021-06-13 at 4.15.37 PM.png */; };
+		F9EA53E02676196000B92D21 /* Screenshot 2021-06-13 at 4.15.47 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = F9EA53DF2676196000B92D21 /* Screenshot 2021-06-13 at 4.15.47 PM.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -67,8 +89,48 @@
 		F9EA53372675997600B92D21 /* Landing.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = Landing.json; sourceTree = "<group>"; };
 		F9EA533C267599B500B92D21 /* LandingModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandingModel.swift; sourceTree = "<group>"; };
 		F9EA53512675D56700B92D21 /* constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = constants.swift; sourceTree = "<group>"; };
-		F9EA536D26760C1F00B92D21 /* Screenshot 2021-06-13 at 3.19.13 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screenshot 2021-06-13 at 3.19.13 PM.png"; sourceTree = "<group>"; };
-		F9EA537526760C4300B92D21 /* Screenshot 2021-06-13 at 3.19.50 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screenshot 2021-06-13 at 3.19.50 PM.png"; sourceTree = "<group>"; };
+		F9EA537B26760F5B00B92D21 /* METADATA.pb */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = METADATA.pb; sourceTree = "<group>"; };
+		F9EA537C26760F5B00B92D21 /* Barlow-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Barlow-Medium.ttf"; sourceTree = "<group>"; };
+		F9EA537D26760F5B00B92D21 /* DESCRIPTION.en_us.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = DESCRIPTION.en_us.html; sourceTree = "<group>"; };
+		F9EA537E26760F5B00B92D21 /* Barlow-Black.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Barlow-Black.ttf"; sourceTree = "<group>"; };
+		F9EA537F26760F5C00B92D21 /* Barlow-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Barlow-Bold.ttf"; sourceTree = "<group>"; };
+		F9EA538026760F5C00B92D21 /* Barlow-ExtraLightItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Barlow-ExtraLightItalic.ttf"; sourceTree = "<group>"; };
+		F9EA538126760F5C00B92D21 /* Barlow-LightItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Barlow-LightItalic.ttf"; sourceTree = "<group>"; };
+		F9EA538226760F5C00B92D21 /* Barlow-BoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Barlow-BoldItalic.ttf"; sourceTree = "<group>"; };
+		F9EA538326760F5C00B92D21 /* Barlow-BlackItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Barlow-BlackItalic.ttf"; sourceTree = "<group>"; };
+		F9EA538426760F5C00B92D21 /* Barlow-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Barlow-Light.ttf"; sourceTree = "<group>"; };
+		F9EA538526760F5C00B92D21 /* Barlow-MediumItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Barlow-MediumItalic.ttf"; sourceTree = "<group>"; };
+		F9EA538626760F5C00B92D21 /* Barlow-SemiBoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Barlow-SemiBoldItalic.ttf"; sourceTree = "<group>"; };
+		F9EA538726760F5C00B92D21 /* OFL.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = OFL.txt; sourceTree = "<group>"; };
+		F9EA538826760F5C00B92D21 /* Barlow-ExtraLight.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Barlow-ExtraLight.ttf"; sourceTree = "<group>"; };
+		F9EA538926760F5C00B92D21 /* Barlow-Thin.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Barlow-Thin.ttf"; sourceTree = "<group>"; };
+		F9EA538A26760F5C00B92D21 /* Barlow-Italic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Barlow-Italic.ttf"; sourceTree = "<group>"; };
+		F9EA538B26760F5C00B92D21 /* Barlow-ExtraBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Barlow-ExtraBold.ttf"; sourceTree = "<group>"; };
+		F9EA538C26760F5C00B92D21 /* Barlow-ExtraBoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Barlow-ExtraBoldItalic.ttf"; sourceTree = "<group>"; };
+		F9EA538D26760F5C00B92D21 /* Barlow-ThinItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Barlow-ThinItalic.ttf"; sourceTree = "<group>"; };
+		F9EA538E26760F5C00B92D21 /* Barlow-SemiBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Barlow-SemiBold.ttf"; sourceTree = "<group>"; };
+		F9EA538F26760F5C00B92D21 /* Barlow-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Barlow-Regular.ttf"; sourceTree = "<group>"; };
+		F9EA53B22676108D00B92D21 /* BarlowCondensed-Thin.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "BarlowCondensed-Thin.ttf"; sourceTree = "<group>"; };
+		F9EA53B32676108D00B92D21 /* BarlowCondensed-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "BarlowCondensed-Bold.ttf"; sourceTree = "<group>"; };
+		F9EA53B42676108D00B92D21 /* BarlowCondensed-MediumItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "BarlowCondensed-MediumItalic.ttf"; sourceTree = "<group>"; };
+		F9EA53B52676108D00B92D21 /* BarlowCondensed-ExtraBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "BarlowCondensed-ExtraBold.ttf"; sourceTree = "<group>"; };
+		F9EA53B62676108D00B92D21 /* BarlowCondensed-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "BarlowCondensed-Regular.ttf"; sourceTree = "<group>"; };
+		F9EA53B72676108D00B92D21 /* BarlowCondensed-BoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "BarlowCondensed-BoldItalic.ttf"; sourceTree = "<group>"; };
+		F9EA53B82676108D00B92D21 /* BarlowCondensed-ExtraLightItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "BarlowCondensed-ExtraLightItalic.ttf"; sourceTree = "<group>"; };
+		F9EA53B92676108E00B92D21 /* BarlowCondensed-ThinItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "BarlowCondensed-ThinItalic.ttf"; sourceTree = "<group>"; };
+		F9EA53BA2676108E00B92D21 /* BarlowCondensed-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "BarlowCondensed-Light.ttf"; sourceTree = "<group>"; };
+		F9EA53BB2676108E00B92D21 /* BarlowCondensed-BlackItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "BarlowCondensed-BlackItalic.ttf"; sourceTree = "<group>"; };
+		F9EA53BC2676108E00B92D21 /* BarlowCondensed-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "BarlowCondensed-Medium.ttf"; sourceTree = "<group>"; };
+		F9EA53BD2676108E00B92D21 /* BarlowCondensed-ExtraBoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "BarlowCondensed-ExtraBoldItalic.ttf"; sourceTree = "<group>"; };
+		F9EA53BE2676108E00B92D21 /* BarlowCondensed-Italic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "BarlowCondensed-Italic.ttf"; sourceTree = "<group>"; };
+		F9EA53BF2676108E00B92D21 /* BarlowCondensed-LightItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "BarlowCondensed-LightItalic.ttf"; sourceTree = "<group>"; };
+		F9EA53C02676108E00B92D21 /* BarlowCondensed-Black.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "BarlowCondensed-Black.ttf"; sourceTree = "<group>"; };
+		F9EA53C12676108E00B92D21 /* BarlowCondensed-SemiBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "BarlowCondensed-SemiBold.ttf"; sourceTree = "<group>"; };
+		F9EA53C22676108E00B92D21 /* BarlowCondensed-ExtraLight.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "BarlowCondensed-ExtraLight.ttf"; sourceTree = "<group>"; };
+		F9EA53C32676108E00B92D21 /* BarlowCondensed-SemiBoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "BarlowCondensed-SemiBoldItalic.ttf"; sourceTree = "<group>"; };
+		F9EA53CF2676192C00B92D21 /* Screenshot 2021-06-13 at 4.14.55 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screenshot 2021-06-13 at 4.14.55 PM.png"; sourceTree = "<group>"; };
+		F9EA53DA2676195500B92D21 /* Screenshot 2021-06-13 at 4.15.37 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screenshot 2021-06-13 at 4.15.37 PM.png"; sourceTree = "<group>"; };
+		F9EA53DF2676196000B92D21 /* Screenshot 2021-06-13 at 4.15.47 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screenshot 2021-06-13 at 4.15.47 PM.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -119,7 +181,8 @@
 		F9609B922674BF0000B48505 /* Binaryveda */ = {
 			isa = PBXGroup;
 			children = (
-				F9EA536C26760C0A00B92D21 /* ScreenShots */,
+				F9EA537A26760F4800B92D21 /* Fonts */,
+				F9EA536C26760C0A00B92D21 /* ScreenShots & Recording */,
 				F9EA533B267599A800B92D21 /* Model */,
 				F9609BD52675284A00B48505 /* LandingScreen */,
 				F9609BD42675283400B48505 /* ProfileScreen */,
@@ -197,13 +260,68 @@
 			path = Model;
 			sourceTree = "<group>";
 		};
-		F9EA536C26760C0A00B92D21 /* ScreenShots */ = {
+		F9EA536C26760C0A00B92D21 /* ScreenShots & Recording */ = {
 			isa = PBXGroup;
 			children = (
-				F9EA537526760C4300B92D21 /* Screenshot 2021-06-13 at 3.19.50 PM.png */,
-				F9EA536D26760C1F00B92D21 /* Screenshot 2021-06-13 at 3.19.13 PM.png */,
+				F9EA53DA2676195500B92D21 /* Screenshot 2021-06-13 at 4.15.37 PM.png */,
+				F9EA53DF2676196000B92D21 /* Screenshot 2021-06-13 at 4.15.47 PM.png */,
+				F9EA53CF2676192C00B92D21 /* Screenshot 2021-06-13 at 4.14.55 PM.png */,
 			);
-			path = ScreenShots;
+			path = "ScreenShots & Recording";
+			sourceTree = "<group>";
+		};
+		F9EA537A26760F4800B92D21 /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				F9EA53B12676108200B92D21 /* Barlow-cond */,
+				F9EA537E26760F5B00B92D21 /* Barlow-Black.ttf */,
+				F9EA538326760F5C00B92D21 /* Barlow-BlackItalic.ttf */,
+				F9EA537F26760F5C00B92D21 /* Barlow-Bold.ttf */,
+				F9EA538226760F5C00B92D21 /* Barlow-BoldItalic.ttf */,
+				F9EA538B26760F5C00B92D21 /* Barlow-ExtraBold.ttf */,
+				F9EA538C26760F5C00B92D21 /* Barlow-ExtraBoldItalic.ttf */,
+				F9EA538826760F5C00B92D21 /* Barlow-ExtraLight.ttf */,
+				F9EA538026760F5C00B92D21 /* Barlow-ExtraLightItalic.ttf */,
+				F9EA538A26760F5C00B92D21 /* Barlow-Italic.ttf */,
+				F9EA538426760F5C00B92D21 /* Barlow-Light.ttf */,
+				F9EA538126760F5C00B92D21 /* Barlow-LightItalic.ttf */,
+				F9EA537C26760F5B00B92D21 /* Barlow-Medium.ttf */,
+				F9EA538526760F5C00B92D21 /* Barlow-MediumItalic.ttf */,
+				F9EA538F26760F5C00B92D21 /* Barlow-Regular.ttf */,
+				F9EA538E26760F5C00B92D21 /* Barlow-SemiBold.ttf */,
+				F9EA538626760F5C00B92D21 /* Barlow-SemiBoldItalic.ttf */,
+				F9EA538926760F5C00B92D21 /* Barlow-Thin.ttf */,
+				F9EA538D26760F5C00B92D21 /* Barlow-ThinItalic.ttf */,
+				F9EA537D26760F5B00B92D21 /* DESCRIPTION.en_us.html */,
+				F9EA537B26760F5B00B92D21 /* METADATA.pb */,
+				F9EA538726760F5C00B92D21 /* OFL.txt */,
+			);
+			path = Fonts;
+			sourceTree = "<group>";
+		};
+		F9EA53B12676108200B92D21 /* Barlow-cond */ = {
+			isa = PBXGroup;
+			children = (
+				F9EA53C02676108E00B92D21 /* BarlowCondensed-Black.ttf */,
+				F9EA53BB2676108E00B92D21 /* BarlowCondensed-BlackItalic.ttf */,
+				F9EA53B32676108D00B92D21 /* BarlowCondensed-Bold.ttf */,
+				F9EA53B72676108D00B92D21 /* BarlowCondensed-BoldItalic.ttf */,
+				F9EA53B52676108D00B92D21 /* BarlowCondensed-ExtraBold.ttf */,
+				F9EA53BD2676108E00B92D21 /* BarlowCondensed-ExtraBoldItalic.ttf */,
+				F9EA53C22676108E00B92D21 /* BarlowCondensed-ExtraLight.ttf */,
+				F9EA53B82676108D00B92D21 /* BarlowCondensed-ExtraLightItalic.ttf */,
+				F9EA53BE2676108E00B92D21 /* BarlowCondensed-Italic.ttf */,
+				F9EA53BA2676108E00B92D21 /* BarlowCondensed-Light.ttf */,
+				F9EA53BF2676108E00B92D21 /* BarlowCondensed-LightItalic.ttf */,
+				F9EA53BC2676108E00B92D21 /* BarlowCondensed-Medium.ttf */,
+				F9EA53B42676108D00B92D21 /* BarlowCondensed-MediumItalic.ttf */,
+				F9EA53B62676108D00B92D21 /* BarlowCondensed-Regular.ttf */,
+				F9EA53C12676108E00B92D21 /* BarlowCondensed-SemiBold.ttf */,
+				F9EA53C32676108E00B92D21 /* BarlowCondensed-SemiBoldItalic.ttf */,
+				F9EA53B22676108D00B92D21 /* BarlowCondensed-Thin.ttf */,
+				F9EA53B92676108E00B92D21 /* BarlowCondensed-ThinItalic.ttf */,
+			);
+			path = "Barlow-cond";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -309,14 +427,36 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F9EA53E02676196000B92D21 /* Screenshot 2021-06-13 at 4.15.47 PM.png in Resources */,
+				F9EA539E26760F5C00B92D21 /* Barlow-Thin.ttf in Resources */,
+				F9EA53D02676192C00B92D21 /* Screenshot 2021-06-13 at 4.14.55 PM.png in Resources */,
+				F9EA539C26760F5C00B92D21 /* OFL.txt in Resources */,
+				F9EA53DB2676195500B92D21 /* Screenshot 2021-06-13 at 4.15.37 PM.png in Resources */,
+				F9EA539226760F5C00B92D21 /* DESCRIPTION.en_us.html in Resources */,
+				F9EA53A126760F5C00B92D21 /* Barlow-ExtraBoldItalic.ttf in Resources */,
 				F9609BA02674BF0600B48505 /* LaunchScreen.storyboard in Resources */,
-				F9EA537626760C4400B92D21 /* Screenshot 2021-06-13 at 3.19.50 PM.png in Resources */,
+				F9EA539D26760F5C00B92D21 /* Barlow-ExtraLight.ttf in Resources */,
+				F9EA539626760F5C00B92D21 /* Barlow-LightItalic.ttf in Resources */,
+				F9EA53A226760F5C00B92D21 /* Barlow-ThinItalic.ttf in Resources */,
+				F9EA539426760F5C00B92D21 /* Barlow-Bold.ttf in Resources */,
+				F9EA539026760F5C00B92D21 /* METADATA.pb in Resources */,
+				F9EA539B26760F5C00B92D21 /* Barlow-SemiBoldItalic.ttf in Resources */,
 				F9EA534426759E8800B92D21 /* Landing.json in Resources */,
+				F9EA539826760F5C00B92D21 /* Barlow-BlackItalic.ttf in Resources */,
+				F9EA539326760F5C00B92D21 /* Barlow-Black.ttf in Resources */,
+				F9EA53A026760F5C00B92D21 /* Barlow-ExtraBold.ttf in Resources */,
 				F9609BCD26750DD200B48505 /* LandingTableViewCell.xib in Resources */,
+				F9EA53A426760F5C00B92D21 /* Barlow-Regular.ttf in Resources */,
 				F9609B9D2674BF0600B48505 /* Assets.xcassets in Resources */,
-				F9EA536E26760C1F00B92D21 /* Screenshot 2021-06-13 at 3.19.13 PM.png in Resources */,
+				F9EA539126760F5C00B92D21 /* Barlow-Medium.ttf in Resources */,
+				F9EA539726760F5C00B92D21 /* Barlow-BoldItalic.ttf in Resources */,
+				F9EA539926760F5C00B92D21 /* Barlow-Light.ttf in Resources */,
+				F9EA539526760F5C00B92D21 /* Barlow-ExtraLightItalic.ttf in Resources */,
 				F9609B9B2674BF0000B48505 /* Main.storyboard in Resources */,
+				F9EA539A26760F5C00B92D21 /* Barlow-MediumItalic.ttf in Resources */,
 				F9609BE2267540C300B48505 /* ProfileCollectionViewCell.xib in Resources */,
+				F9EA53A326760F5C00B92D21 /* Barlow-SemiBold.ttf in Resources */,
+				F9EA539F26760F5C00B92D21 /* Barlow-Italic.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
